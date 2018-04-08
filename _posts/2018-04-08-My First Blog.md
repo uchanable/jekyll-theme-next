@@ -1,8 +1,8 @@
 ---
 title: First Blog in Github
 categories:
- - None
-tags:None
+ - etc
+tags:etc
 ---
 
 This is a highlight test.
