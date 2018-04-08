@@ -12,6 +12,7 @@ tags:
 categories:
 - python
 - study
+description: 
 ---
 
 요즘 하루의 마무리를 연구실에서 보내고 있다.
@@ -106,7 +107,7 @@ $ git clone https://github.com/golbin/TensorFlow-Tutorials.git
 그런다음 터미널이나 명령프롬프트에서 TensorFlow-Tutorials / 03 - TensorFlow Basic 위치로 이동한 뒤 다음 명령어를 실행해본다.
 >여기서 문제점이 발생, 파일 공백을 인식못하는듯하여, 나는 파이썬 파일 이름을 01.py, 02.py, 03.py로 바꿔서 실행해보았다.```
 
-```python
+```
 $ python 01.py
 Tensor("Const:0", shape=(), dtype=string) 
 Tensor("Add:0", shape=(), dtype=int32) 
