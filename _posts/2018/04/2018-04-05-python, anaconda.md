@@ -11,7 +11,7 @@ tags:
 - Python
 categories:
 - python
-- study
+- Study
 description: 
 ---
 
