@@ -12,6 +12,7 @@ tags:
 categories:
 - python
 - study
+description: 
 ---
 
 요즘 하루의 마무리를 연구실에서 보내고 있다.
