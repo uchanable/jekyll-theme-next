@@ -4,19 +4,19 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
+title: UChanable Technology.
+subtitle: FTLab Tsukuba
 description:
-author: John Doe
+author: Youchan Yim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://uchanable.github.io
 baseurl:
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 # Pagination
 paginate: 10
@@ -86,10 +86,10 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+#since: 2018
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: keyboard-o
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -212,7 +212,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
+    GitHub: https://github.com/uchanable
   #LinkLabel: Link
 
 
@@ -226,8 +227,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  # Twitter: twitter
+  # Weibo: weibo
 
 
 # Sidebar Avatar
@@ -310,7 +311,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false
+  updated_at: true
   categories: true
 
 # Post wordcount display settings
@@ -435,7 +436,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-116916667-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -559,7 +560,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
