@@ -16,15 +16,17 @@ alert('Hello World!');
     print 'helloworld'
 
 # Highlight block
-
+Java
 ```javascript
 alert( 'Hello, world!' );
 ```
 
+Python
 ```python
 print 'helloworld'
 ```
 
+Ruby
 ```ruby
 def foo
   puts 'foo'
@@ -43,6 +45,7 @@ def foo
 end
 {% endhighlight %}
 
+C++
 ```c++
 #include <iostream>
 
