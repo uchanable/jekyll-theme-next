@@ -311,7 +311,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: true
+  updated_at: False
   categories: true
 
 # Post wordcount display settings
@@ -380,8 +380,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: https-uchanable-github-io 
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
