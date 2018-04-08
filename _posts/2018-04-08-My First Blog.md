@@ -1,8 +1,14 @@
 ---
-title: First Blog in Github
+layout: post
+title: "First Blog in Github"
+date: 2018-04-08 17:00
+image: ''
+description: ''
+tags:
+- etc
+- None
 categories:
- - etc
-tags:etc
+- None
 ---
 
 This is a highlight test.
