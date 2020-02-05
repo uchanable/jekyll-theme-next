@@ -10,7 +10,6 @@ tags:
 - Machine Learning
 - TensorFlow
 categories:
-- python
 - Study
 description: 
 ---

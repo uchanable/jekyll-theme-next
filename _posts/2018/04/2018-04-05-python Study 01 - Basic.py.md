@@ -9,7 +9,6 @@ tags:
 - Deep Learning
 - Machine Learning
 categories:
-- python
 - Study
 description: 
 ---

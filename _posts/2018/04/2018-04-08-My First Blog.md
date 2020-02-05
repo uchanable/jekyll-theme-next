@@ -8,7 +8,7 @@ tags:
 - etc
 - None
 categories:
-- None
+- Blog
 ---
 
 This is a highlight test.

@@ -10,7 +10,6 @@ tags:
 - Windows 10
 - Python
 categories:
-- python
 - Study
 description: 
 ---
