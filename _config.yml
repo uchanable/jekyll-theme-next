@@ -5,7 +5,7 @@ url: "https://uchanable.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Uchan Blog
+  title: UChan Blog
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -20,14 +20,14 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: Full email address, e.g. "yim@ftl.iit.tsukuba.ac.jp"
+  email_address: "yim@ftl.iit.tsukuba.ac.jp"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "https://github.com/uchanable/"
+  github: "uchanable/"
   gitter:
   google_plus:
   instagram:

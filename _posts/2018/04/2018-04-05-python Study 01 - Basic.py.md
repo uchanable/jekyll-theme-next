@@ -9,7 +9,7 @@ tags:
 - Deep Learning
 - Machine Learning
 categories:
-- Study
+- Deep Learning
 description: 
 ---
 참고 : [골빈 해커의 3분 딥러닝](https://github.com/golbin/TensorFlow-Tutorials/tree/master/03%20-%20TensorFlow%20Basic)

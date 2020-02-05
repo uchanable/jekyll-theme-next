@@ -10,7 +10,7 @@ tags:
 - Machine Learning
 - TensorFlow
 categories:
-- Study
+- Deep Learning
 description: 
 ---
 참고 : [골빈 해커의 3분 딥러닝](https://github.com/golbin/TensorFlow-Tutorials/tree/master/03%20-%20TensorFlow%20Basic), [머신러닝 강좌 동영상- Youtube 동빈나](https://www.youtube.com/watch?v=IhNNpyWKorY)

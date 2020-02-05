@@ -10,7 +10,7 @@ tags:
 - Windows 10
 - Python
 categories:
-- Study
+- Deep Learning
 description: 
 ---
 
