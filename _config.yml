@@ -9,6 +9,7 @@ subtitle: FT
 description:
 author: Youchan Yim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
+Support language: en, ja, ko
 language: ko
 date_format: '%Y-%m-%d'
 
