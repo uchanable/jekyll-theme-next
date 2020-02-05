@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Thesis
+title: Research/Thesis
+permalink: '/Research/Thesis'
 ---

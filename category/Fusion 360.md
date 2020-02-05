@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Fusion 360
+title: Research/Fusion 360
+permalink: '/Research/FU360'
 ---

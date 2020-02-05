@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Arduino
+title: Research/Arduino
+permalink: '/Research/Arduino'
 ---

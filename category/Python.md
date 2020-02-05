@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Python
+title: Study/Python
+permalink: '/Study/Python'
 ---

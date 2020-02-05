@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Deep Learning
+title: Study/Deep Learning
+permalink: '/Study/DL'
 ---
