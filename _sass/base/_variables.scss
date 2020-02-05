@@ -14,12 +14,12 @@ $background-color: #3F3F3F;
 $border-color: rgba(0, 0, 0, 0.1) !default; // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #FFFFFF !default;
-$link-color: #1ABC9C !default;
-$selection-color: #D4D4D4 !default; // visible when highlighting text
+$text-color: #FFFFFF;
+$link-color: #1ABC9C;
+$selection-color: #D4D4D4; // visible when highlighting text
 
 // Tags color
-$tags-color: #b0b0b0 !default;
+$tags-color: #b0b0b0;
 
 //Search color
 $search-color: #999 !default;
@@ -32,6 +32,6 @@ $feature-image-text-color: #fff !default;
 $feature-image-size: cover !default; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: #3F3F3F !default;
+$header-desc-background-color: #3F3F3F;
 $header-desc-text-color: #FFF !default;
-$header-desc-link-color: #02453D !default;
+$header-desc-link-color: #02453D;
