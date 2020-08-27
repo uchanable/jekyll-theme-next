@@ -11,11 +11,11 @@ layout: default
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}
-  
-  <div class="social">
+
+  <ul class="social">
   <!-- Social icons from Font Awesome, if enabled  -->
   {% include icons.html %}
-  </div>
+  </ul>
 
   <div class="posts">
     {% for post in paginator.posts %}
