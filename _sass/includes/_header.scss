@@ -25,7 +25,7 @@
     font-size: 1em;
     line-height: 1.5;
   }
-
+/*
   .site-nav {
     ul {
       margin: 0;
@@ -52,7 +52,7 @@
         width: 100%;
       }
     }
-  }
+  } */
 
     /* --- Search form --- */
     form {
@@ -89,7 +89,7 @@
            color: $search-color;
         }
     }
-
+// devyurim github보면서 하는
     .site-category{
       background: $brand-color;
       border-top: 1px solid $border-color;
@@ -99,7 +99,7 @@
       text-align: center;
       clear:left;
       }
-    
+
       .site-category ul{
       //background: rgb(109,109,109);
       height:50px;
@@ -109,13 +109,13 @@
       padding:0;
       display:inline-block;
       }
-    
+
       .site-category li{
       float: left;
       display:inline;
-    
+
       }
-    
+
       .site-category li a{
       background: $brand-color;
       display:block;
@@ -126,13 +126,13 @@
       text-align:center;
       text-decoration:none;
       }
-    
+
       .site-category li a:hover{
       background: rgb(71,71,71);
       color:#FFFFFF;
       text-decoration:none;
       }
-    
+
       .site-category li ul{
       background: rgb(109,109,109);
       display:none; /* 평상시에는 드랍메뉴가 안보이게 하기 */
@@ -146,11 +146,11 @@
       /*top:1em;
       /*left:0;*/
       }
-    
+
       .site-category li:hover ul{
       display:block; /* 마우스 커서 올리면 드랍메뉴 보이게 하기 */
       }
-    
+
       .site-category li li {
       background: $brand-color;
       display:block;
@@ -159,11 +159,11 @@
       padding:0px;
       width:200px;
       }
-    
+
       .site-category li:hover li a{
       background:none;
       }
-    
+
       .site-category li ul a{
       display:block;
       height:50px;
@@ -173,7 +173,7 @@
       padding:0px 10px 0px 15px;
       text-align:left;
       }
-    
+
       .site-category li ul a:hover, .menubar li ul li:hover a{
       background: rgb(71,71,71);
       border:0px;
