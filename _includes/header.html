@@ -12,6 +12,20 @@
 		<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
 		</h1>
+		
+		{% include icons.html %}
+
+					<!-- Search bar -->
+					{% if site.theme_settings.search %}
+					<li>
+					<form action="{{ site.baseurl }}/search.html" method="get">
+							<input type="text" id="search-box" name="query" placeholder="Search" class="">
+							<button type="submit" class="">
+									<i class="fa fa-fw fa-search"></i>
+							</button>
+					</form>
+					</li>
+					{% endif %}
 	</div>
 
 	<div class="site-category">
