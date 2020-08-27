@@ -8,13 +8,14 @@ layout: default
   {% if site.theme_settings.header_text %}
   <div class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+    {{ site.theme_settings.header_text }}
+  </div>
+  {% endif %}
+  
   <div class="social">
   <!-- Social icons from Font Awesome, if enabled  -->
   {% include icons.html %}
   </div>
-    {{ site.theme_settings.header_text }}
-  </div>
-  {% endif %}
 
   <div class="posts">
     {% for post in paginator.posts %}
