@@ -46,7 +46,7 @@ theme_settings:
   google_analytics: Tracking ID, e.g. "UA-116916667-2"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: true # Enable the search feature
+  search: false # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
